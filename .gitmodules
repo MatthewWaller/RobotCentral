@@ -1,6 +1,6 @@
 [submodule "lerobot"]
 	path = lerobot
-	url = https://github.com/huggingface/lerobot.git
+	url = https://github.com/MatthewWaller/lerobot.git
 [submodule "isaac-gr00t"]
 	path = isaac-gr00t
-	url = https://github.com/NVIDIA/Isaac-GR00T.git
+	url = https://github.com/MatthewWaller/Isaac-GR00T.git
